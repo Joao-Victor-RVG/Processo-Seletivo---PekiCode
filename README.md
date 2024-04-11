@@ -1,5 +1,5 @@
 <figure>
-  <img src="#" alt="peki Code Logo">
+  <img src="pekicode.png" alt="peki Code Logo">
   <figcaption></figcaption>
 </figure>
 
@@ -56,17 +56,17 @@ This project is under the MIT license. see the file [LICENSE](.github/LICENSE.md
 
 
 <figure>
-  <img src="#" alt="image01">
+  <img src="image001.png" alt="image01">
   <figcaption></figcaption>
 </figure>
 
 <figure>
-  <img src="#" alt="image2">
+  <img src="image002.png" alt="image2">
   <figcaption></figcaption>
 </figure>
 
 <figure>
-  <img src="#" alt="image03">
+  <img src="image003.png" alt="image03">
   <figcaption></figcaption>
 </figure>
 
